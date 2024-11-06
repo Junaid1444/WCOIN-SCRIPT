@@ -18,4 +18,6 @@ cd wcoin
 pip install -r requirements.txt
 
 python wcoin.py
+
+
 AUTOMATION KEY:POTATO
